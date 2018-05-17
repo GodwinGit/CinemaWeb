@@ -1,43 +1,35 @@
-html{background-color: black;}
+html{background-color: #222222;}
 
 body {
-    margin-left: 5px;
+    margin-left: 10px;
 }
 
-
-#upPic{
-    padding-left: 20px;
-    background-color: #1C1C1C;
-    padding-top: 50px;
-
-
+table {
+    color: white;
+    font-size: 18px;
+    border-spacing: 4rem;
+    margin-bottom: 50px;
 
 }
-#upPic2{
-
-    padding-top: 50px;
-    background-color: #1C1C1C;
-    padding-left: 20px;
+td{
+    margin-bottom: 50px;
 }
 
-#upPic3{
-
-    padding-top: 50px;
-    background-color: #1C1C1C;
-    padding-left: 20px;
+#container{
+    color: white;
 }
-#upPic4{
-
-    padding-top: 50px;
-    background-color: #1C1C1C;
-    padding-left: 20px;
+#large_img{
+    color: white;
 }
-
+#description{
+    color: white;
+    padding-top: 5px;
+}
 #logo{
-    padding-top: 10px;
+    padding-top: 20px;
 }
 #firstH2 {
-    float: left;
+    text-align: center;
     color: white;
     font-size: large;
 }
